@@ -74,4 +74,4 @@ Instalar las dependencias y ejecutar la app en el puerto 4200 (Puerto por defect
 
 ## Author
 
-- [@diegoinost02](https://github.com/diegoinost02)
+- [@1auti](https://github.com/1auti)
